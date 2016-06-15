@@ -1,7 +1,7 @@
 # hello-world
 first repository - test
 
-this is my first test repository.
+this is my first test repository..
 
 # Travelling Nomad
 ## Some of my favorite places & experiences
